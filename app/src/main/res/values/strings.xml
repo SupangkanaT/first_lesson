@@ -2,7 +2,9 @@
 
     <string name="app_name">Lesson 01</string>
 
-    <string name="text_info">My Text information</string>
+    <string name="text_first">My Text information</string>
+    <string name="text_second">Hello World! How are you</string>
+
 
 
 
